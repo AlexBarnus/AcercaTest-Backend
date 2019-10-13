@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "NumeroPedido": 1,
+    "Bastidor": "VSSZZZ6KZ1R149943",
+    "Modelo": "Chevrolet Impala",
+    "Matricula": "1234BBB",
+    "FechaEntrega": "2019-10-01T00:00:00"
+  },
+  {
+    "Id": 2,
+    "NumeroPedido": 2,
+    "Bastidor": "VSSS2Z6KZ1R149943",
+    "Modelo": "Ford Scort atlanta",
+    "Matricula": "2548YTR",
+    "FechaEntrega": "2018-11-02T00:00:00"
+  },
+  {
+    "Id": 3,
+    "NumeroPedido": 3,
+    "Bastidor": "VSDF2Z6KZ1R149943",
+    "Modelo": "Peugeot Lanister",
+    "Matricula": "3456RTY",
+    "FechaEntrega": "2012-12-05T00:00:00"
+  },
+  {
+    "Id": 4,
+    "NumeroPedido": 4,
+    "Bastidor": "VSDF2123Z1R149943",
+    "Modelo": "Mitsubishi Colt",
+    "Matricula": "2352TYD",
+    "FechaEntrega": "2017-03-09T00:00:00"
+  },
+  {
+    "Id": 5,
+    "NumeroPedido": 5,
+    "Bastidor": "VSDF21232RT514994",
+    "Modelo": "Tesla Model S",
+    "Matricula": "5678ZDF",
+    "FechaEntrega": "2020-10-10T00:00:00"
+  },
+  {
+    "Id": 6,
+    "NumeroPedido": 6,
+    "Bastidor": "VGTD21232RT5149453",
+    "Modelo": "Tesla Model X",
+    "Matricula": "4325TTY",
+    "FechaEntrega": "2019-10-10T00:00:00"
+  }
+]
